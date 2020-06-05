@@ -1,0 +1,6 @@
+#ifndef LED_RING_CONSTANTS_H
+#define LED_RING_CONSTANTS_H
+
+const int DATA_PIN = D3;
+
+#endif //LED_RING_CONSTANTS_H
